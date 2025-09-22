@@ -8,7 +8,7 @@
 ## 🛠️ Tech Stack
 
 **Backend:** Node.js (Express), Java (Spring Boot)  
-**Frontend:** React, Next.js, TypeScript  
+**Frontend:** React, TypeScript  
 **Databases:** PostgreSQL, MongoDB  
 **Tools & DevOps:** Git, Docker, Linux, Postman  
 
